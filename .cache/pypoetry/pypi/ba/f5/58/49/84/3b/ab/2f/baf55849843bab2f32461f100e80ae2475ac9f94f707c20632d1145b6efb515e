@@ -1,0 +1,1 @@
+9999999999{"name": "pyobjc-framework-ExtensionKit", "version": "9.0.1", "summary": "Wrappers for the framework ExtensionKit on macOS", "platform": "MacOS X (>=13.0)", "requires_dist": ["pyobjc-core (>=9.0.1)", "pyobjc-framework-Cocoa (>=9.0.1)"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}

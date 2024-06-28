@@ -4,6 +4,8 @@
 
 QGPT is a Telegram chatbot that uses the power of OpenAI's GPT-3.5 Turbo and Dall-E to engage in conversations, generate creative text, and even create images! 
 
+![QGPT BANNER2-01-01](https://github.com/Qyuzet/Quadran-GPT/assets/93258081/7886bd6f-6f5f-40a0-abf0-2ef7dc043a9b)
+
 ## Access QGPT: 
 
 [EXTD1] Version:

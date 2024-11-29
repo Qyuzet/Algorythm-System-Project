@@ -36,7 +36,7 @@ QGPT is a Telegram chatbot that uses the power of OpenAI's GPT-3.5 Turbo and Dal
 </div>
 </br>
 
-## Access QGPT: 
+## Access QGPT: _**[Note: currently our service is inactive]**_
 
 [EXTD1] Version:
 **ACCESS LINK:** https://t.me/QYUGPT_BOT
